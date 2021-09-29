@@ -1,4 +1,6 @@
  
 #!/bin/bash 
  
-#free -m
+touch file {1..4}  
+
+
